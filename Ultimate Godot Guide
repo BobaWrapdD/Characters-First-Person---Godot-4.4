@@ -1,0 +1,33 @@
+– Ultimate Godot Guide :
+
+* *Godot 4.4 (Docs)*
+https://docs.godotengine.org/en/4.4/ panduan godot versi 4.4
+
+*·  Shooting Projectile*
+https://kidscancode-org.translate.goog/godot_recipes/4.x/2d/2d_shooting/index.html?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge (mekanik shooting) – https://github.com/godotrecipes/2d_shooting (Proyek2DShooter)
+
+* *Godot Step-By-Step*
+https://www.scribd.com/document/874494744/Godot-Script 
+(ultimate panduan godot)
+
+* *Pathfinding System*
+Reff : Godot Forum 
+
+https://forum-godotengine-org.translate.goog/t/how-can-i-make-enemy-patrol-in-godot-4-3-using-state-machines/81144?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc (Pembahasan) (4.3)
+
+* *Cut Scene System*
+Basically, just move the camera by adding key frames to animate it. Then in func ready() // process(): just run it with play(
+https://www.reddit.com/r/godot/comments/1cymaw5/how_to_make_a_cutscene/?solution=93f534ec7c292ebc93f534ec7c292ebc&js_challenge=1&token=7afd7253fec22262ff1c52b1703fe9ecc3bd9654df4c8965e22335bc89daa1a7&jsc_orig_r=&_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge
+
+* *How to make 2 ending in godot?*
+https://forum.godotengine.org/t/how-to-make-2-endings-correspond-to-a-progress-bar/116183
+basically by using if (*if*) or if not (*else*) if (*if #condition1 > #ending1*) (*if not #condition2 > #ending2*) or (*if in condition 1 = ending#1 – otherwise then
+
+* *Quit Game system (Load & Save)*
+[ https://www.reddit.com/r/godot/comments/iwdt4m/quit_request/?solution=b6dbbb4379497023b6dbbb4379497023&js_challenge=1&token=7afd7253fec22262ff1c52b1703fe9ec9db66d1e665e835412903e3a57130cad&jsc_orig_r= ] (Discussion)
+
+* *GitHub Library Godot*
+[ https://github.com/derdrache/tutorial_library ]
+@Derdrache // GitHub
+
+Godot 4.4 Advance Movement Godot : [ https://godotengine.org/asset-library/asset/3475 ]
